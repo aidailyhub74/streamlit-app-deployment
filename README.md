@@ -1,7 +1,5 @@
 # 🚀 Steps to deploy app using Streamlit Cloud
 
-🎥 Watch the step-by-step video: [Download Kaggle API Token](https://www.youtube.com/watch?v=vWMVZNXpB60)
-
 Follow the steps below to deploy your Streamlit application easily:
 
 ---
