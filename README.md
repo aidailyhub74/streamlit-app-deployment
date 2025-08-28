@@ -2,7 +2,7 @@
 
 Follow the steps below to deploy your Streamlit application easily:
 
-🎥 Watch the step-by-step video: [Download Kaggle API Token](https://www.youtube.com/watch?v=UHrKHtjMn0A)
+🎥 Watch the step-by-step video: [Deploy Streamlit App](https://www.youtube.com/watch?v=UHrKHtjMn0A)
 ---
 
 ## **Step 1: Create GitHub Repository**
